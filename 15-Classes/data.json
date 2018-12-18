@@ -1,0 +1,252 @@
+{
+  "students": [
+    {
+      "id": "f91ac612-62b6-46ad-a44d-8d026823674d",
+      "__typename": "Student",
+      "studentNumber": 23536,
+      "firstName": "Howard",
+      "lastName": "Chi",
+      "address": "2334  Roosevelt Wilson Lane",
+      "phoneNumber": "360-348-2392",
+      "cell": "425-919-2775",
+      "gender": "MALE",
+      "email": "hklwe@gslk.com",
+      "birthDate": "2018-12-05T09:13:46.934Z"
+    },
+    {
+      "id": "b47cb60e-5053-4816-934f-3e23021ee8fa",
+      "__typename": "Student",
+      "studentNumber": 2234,
+      "firstName": "Leo",
+      "lastName": "Lee",
+      "address": "370  Southside Lane",
+      "phoneNumber": "323-717-6237",
+      "cell": "409-377-8280",
+      "gender": "MALE",
+      "email": "o3b3rq2ihf@payspun.com",
+      "birthDate": "2005-12-20T09:14:35.587Z"
+    },
+    {
+      "id": "5e68bf19-6584-4dd0-94d4-9eec6daa6d19",
+      "__typename": "Student",
+      "studentNumber": 24214,
+      "firstName": "Mary",
+      "lastName": "Harriman",
+      "address": "4678  Nutters Barn Lane",
+      "phoneNumber": "515-598-0160",
+      "cell": "712-522-2208",
+      "gender": "FEMALE",
+      "email": "36k6jg6wi6p@iffymedia.com",
+      "birthDate": "2010-12-06T09:15:14.747Z"
+    },
+    {
+      "id": "3c6c19d1-4b50-4e1c-a565-797d87084e71",
+      "__typename": "Student",
+      "studentNumber": 5235,
+      "firstName": "Jane",
+      "lastName": "Wyatt",
+      "address": "2634  Parkway Street",
+      "phoneNumber": "760-318-2145",
+      "cell": "760-835-6605",
+      "gender": "FEMALE",
+      "email": "g1h9zpvsc48@payspun.com",
+      "birthDate": "2002-12-09T09:16:01.492Z"
+    },
+    {
+      "id": "f21bf07a-b428-43f8-8cf2-1132de34481b",
+      "__typename": "Student",
+      "studentNumber": 1242,
+      "firstName": "Morrell",
+      "lastName": "Dorothy",
+      "address": "2315  Bridge Street",
+      "phoneNumber": "918-948-6984",
+      "cell": "918-406-4559",
+      "gender": "MALE",
+      "email": "jpo1w22e8e@fakemailgenerator.net",
+      "birthDate": "2006-12-13T09:16:36.787Z"
+    },
+    {
+      "id": "6e72cd9c-880c-4eac-8161-1a59779a6627",
+      "__typename": "Student",
+      "studentNumber": 5674,
+      "firstName": "Charles",
+      "lastName": "Shea",
+      "address": "3335  Harron Drive",
+      "phoneNumber": "443-487-2445",
+      "cell": "410-240-1295",
+      "gender": "MALE",
+      "email": "e4wojq3mryw@payspun.com",
+      "birthDate": "2003-11-03T09:17:26.059Z"
+    }
+  ],
+  "courses": [
+    {
+      "id": "9b2ddf7c-b74b-45b3-82be-d64478ab6ae9",
+      "__typename": "Course",
+      "courseNo": 3457,
+      "name": "Statistic",
+      "description": "",
+      "room": "d72b745f-3188-487f-b610-af1ff8bf1c86",
+      "student": [
+        "b47cb60e-5053-4816-934f-3e23021ee8fa",
+        "3c6c19d1-4b50-4e1c-a565-797d87084e71",
+        "f21bf07a-b428-43f8-8cf2-1132de34481b",
+        "6e72cd9c-880c-4eac-8161-1a59779a6627"
+      ]
+    },
+    {
+      "id": "db3caae0-bb22-489a-b749-5520ac34ce52",
+      "__typename": "Course",
+      "courseNo": 3456,
+      "name": "Frontend",
+      "description": "",
+      "room": "d72b745f-3188-487f-b610-af1ff8bf1c86",
+      "student": [
+        "b47cb60e-5053-4816-934f-3e23021ee8fa",
+        "5e68bf19-6584-4dd0-94d4-9eec6daa6d19",
+        "f91ac612-62b6-46ad-a44d-8d026823674d",
+        "3c6c19d1-4b50-4e1c-a565-797d87084e71",
+        "f21bf07a-b428-43f8-8cf2-1132de34481b",
+        "6e72cd9c-880c-4eac-8161-1a59779a6627"
+      ]
+    },
+    {
+      "id": "e9f08754-fc5a-4b5e-ba4a-6802614b3bef",
+      "__typename": "Course",
+      "courseNo": 45657,
+      "name": "Complier",
+      "description": "",
+      "room": "6dcb91a8-4790-42dc-acee-96734607ad42",
+      "student": [
+        "f91ac612-62b6-46ad-a44d-8d026823674d",
+        "3c6c19d1-4b50-4e1c-a565-797d87084e71",
+        "f21bf07a-b428-43f8-8cf2-1132de34481b"
+      ]
+    },
+    {
+      "id": "b659ca69-cc0b-4abf-a4fa-9b7851e352aa",
+      "__typename": "Course",
+      "courseNo": 45477,
+      "name": "Science",
+      "description": "",
+      "room": "a21c7265-7d23-4c77-bda6-2ad3b33d4427",
+      "student": [
+        "f91ac612-62b6-46ad-a44d-8d026823674d",
+        "b47cb60e-5053-4816-934f-3e23021ee8fa",
+        "3c6c19d1-4b50-4e1c-a565-797d87084e71",
+        "f21bf07a-b428-43f8-8cf2-1132de34481b",
+        "6e72cd9c-880c-4eac-8161-1a59779a6627"
+      ]
+    },
+    {
+      "id": "d01c6269-b1ad-4dd9-a3df-0ae7fc3d0f8c",
+      "__typename": "Course",
+      "courseNo": 3453,
+      "name": "Accounting",
+      "description": "",
+      "room": "d5dadc30-e531-4c4c-ad98-e8d4d9e910a7",
+      "student": [
+        "f91ac612-62b6-46ad-a44d-8d026823674d",
+        "5e68bf19-6584-4dd0-94d4-9eec6daa6d19",
+        "3c6c19d1-4b50-4e1c-a565-797d87084e71",
+        "6e72cd9c-880c-4eac-8161-1a59779a6627"
+      ]
+    },
+    {
+      "id": "7acc3f73-d866-48a5-a42b-bdbeff21b2fd",
+      "__typename": "Course",
+      "courseNo": 35346,
+      "name": "Video editing",
+      "description": "",
+      "room": "a358ac1b-0a81-4d4a-b89a-a9c31f6cd531",
+      "student": [
+        "f91ac612-62b6-46ad-a44d-8d026823674d",
+        "b47cb60e-5053-4816-934f-3e23021ee8fa",
+        "6e72cd9c-880c-4eac-8161-1a59779a6627"
+      ]
+    }
+  ],
+  "deps": [
+    {
+      "id": "cc19045a-9e5e-4891-8b60-55466fd5b2fe",
+      "__typename": "Dep",
+      "name": "Finance",
+      "color": "#00f900"
+    },
+    {
+      "id": "bd229e71-a5df-4920-b83b-4d1406a0eac8",
+      "__typename": "Dep",
+      "name": "Management",
+      "color": "#ff40ff"
+    },
+    {
+      "id": "05e6995e-baac-4159-bddf-acbb76e2b86f",
+      "__typename": "Dep",
+      "name": "History",
+      "color": "#942192"
+    },
+    {
+      "id": "3516bf9f-4808-4ff7-aa73-0b4d96b1acd3",
+      "__typename": "Dep",
+      "name": "Science",
+      "color": "#ff2600"
+    },
+    {
+      "id": "c55392ed-528f-4cee-b62d-b39a9e96a9dc",
+      "__typename": "Dep",
+      "name": "Eletronic",
+      "color": "#fffb00"
+    },
+    {
+      "id": "625d3ef1-0da6-4742-89cc-e69870ac382e",
+      "__typename": "Dep",
+      "name": "Chinese",
+      "color": "#aa7942"
+    }
+  ],
+  "attendances": [],
+  "rooms": [
+    {
+      "id": "6dcb91a8-4790-42dc-acee-96734607ad42",
+      "__typename": "Room",
+      "roomNo": 23423,
+      "capacity": 50,
+      "department": "3516bf9f-4808-4ff7-aa73-0b4d96b1acd3"
+    },
+    {
+      "id": "a21c7265-7d23-4c77-bda6-2ad3b33d4427",
+      "__typename": "Room",
+      "roomNo": 24224,
+      "capacity": 24,
+      "department": "05e6995e-baac-4159-bddf-acbb76e2b86f"
+    },
+    {
+      "id": "d5dadc30-e531-4c4c-ad98-e8d4d9e910a7",
+      "__typename": "Room",
+      "roomNo": 7657,
+      "capacity": 55,
+      "department": "c55392ed-528f-4cee-b62d-b39a9e96a9dc"
+    },
+    {
+      "id": "d72b745f-3188-487f-b610-af1ff8bf1c86",
+      "__typename": "Room",
+      "roomNo": 4560,
+      "capacity": 60,
+      "department": "bd229e71-a5df-4920-b83b-4d1406a0eac8"
+    },
+    {
+      "id": "a358ac1b-0a81-4d4a-b89a-a9c31f6cd531",
+      "__typename": "Room",
+      "roomNo": 6575,
+      "capacity": 70,
+      "department": "cc19045a-9e5e-4891-8b60-55466fd5b2fe"
+    },
+    {
+      "id": "6c3340e6-c9b1-43e3-8714-07586de2b7e3",
+      "__typename": "Room",
+      "roomNo": 6755,
+      "capacity": 70,
+      "department": "c55392ed-528f-4cee-b62d-b39a9e96a9dc"
+    }
+  ]
+}

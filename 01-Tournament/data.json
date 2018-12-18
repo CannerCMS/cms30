@@ -1,0 +1,310 @@
+{
+  "matches": [
+    {
+      "id": "59e132df-8930-461f-b903-86a2cb6d2689",
+      "__typename": "Match",
+      "homeScore": 102,
+      "awayScore": 99,
+      "date": "2018-11-14T07:15:56.515Z",
+      "status": "PLAYED",
+      "home": "2f0b1d61-2af7-4139-a614-905a2e5be95f",
+      "away": "c8e3d166-394b-4904-8b6b-e341fc610671"
+    },
+    {
+      "id": "c0aa8ea2-6a19-43b0-9159-1f7ee6be58eb",
+      "__typename": "Match",
+      "homeScore": 78,
+      "awayScore": 79,
+      "date": "2018-11-12T07:16:21.964Z",
+      "status": "PLAYED",
+      "home": "994f9c43-e581-42ba-93f8-643a587e1bb3",
+      "away": "2f0b1d61-2af7-4139-a614-905a2e5be95f"
+    },
+    {
+      "id": "ab7569f4-671a-4a90-aa59-cc3ebedc034a",
+      "__typename": "Match",
+      "homeScore": 98,
+      "awayScore": 80,
+      "date": "2018-10-25T07:16:42.096Z",
+      "status": "PLAYED",
+      "home": "66c3ab6b-71f8-4901-a791-44c4cff7235e",
+      "away": "2bfd4fc2-354a-4b30-aa57-0424bbed2fd4"
+    },
+    {
+      "id": "493b2400-04c3-4462-80f5-c9953ad46ff5",
+      "__typename": "Match",
+      "homeScore": 93,
+      "awayScore": 102,
+      "date": "2018-11-01T07:17:04.296Z",
+      "status": "PLAYED",
+      "home": "c8e3d166-394b-4904-8b6b-e341fc610671",
+      "away": "66c3ab6b-71f8-4901-a791-44c4cff7235e"
+    },
+    {
+      "id": "00d361f1-758f-4da6-96f3-bc97b84dbedb",
+      "__typename": "Match",
+      "homeScore": 67,
+      "awayScore": 98,
+      "date": "2018-11-14T07:17:27.644Z",
+      "status": "FIXURES",
+      "home": "c8e3d166-394b-4904-8b6b-e341fc610671",
+      "away": "66c3ab6b-71f8-4901-a791-44c4cff7235e"
+    },
+    {
+      "id": "3437109c-1530-4618-b472-cf341bce4184",
+      "__typename": "Match",
+      "homeScore": 80,
+      "awayScore": 78,
+      "date": "2018-11-22T07:19:36.873Z",
+      "status": "FIXURES",
+      "home": "66c3ab6b-71f8-4901-a791-44c4cff7235e",
+      "away": "2bfd4fc2-354a-4b30-aa57-0424bbed2fd4"
+    }
+  ],
+  "players": [
+    {
+      "id": "cc1f2c49-6636-4898-9788-9966dd30792d",
+      "__typename": "Player",
+      "name": "Howard Chi",
+      "age": "23",
+      "about": {
+        "html": "<p><span style=\"background-color: rgb(254, 254, 254); color: rgb(10, 10, 10);\">• Appeared in 76 games (59 starts), averaging 9.9 points, 4.2 rebounds, 1.6 assists, 0.8 steals and 0.6 blocks in 29.5 minutes.&nbsp;</span></p><p><span style=\"background-color: rgb(254, 254, 254); color: rgb(10, 10, 10);\">• Notched 37 games of 10+ points, one game of 20+ and had three double-doubles.&nbsp;</span></p><p><span style=\"background-color: rgb(254, 254, 254); color: rgb(10, 10, 10);\">• 11/1/14 at Golden State, notched first double-digit scoring game of the year with 15 points (6-9 FG) and four rebounds.&nbsp;</span></p><p><span style=\"background-color: rgb(254, 254, 254); color: rgb(10, 10, 10);\">• 11/28/14 vs. Minnesota, scored a season-high 19 points (4th 10+ point game of the season).&nbsp;</span></p><p><span style=\"background-color: rgb(254, 254, 254); color: rgb(10, 10, 10);\">• 12/12/14 at San Antonio, recorded 10+ points in third straight game with 13 points (3-3 3FG) and five rebounds.&nbsp;</span></p><p><span style=\"background-color: rgb(254, 254, 254); color: rgb(10, 10, 10);\">• 12/14/14 at Minnesota, totaled 12 points and tied a career-high with six assists.&nbsp;</span></p><p><span style=\"background-color: rgb(254, 254, 254); color: rgb(10, 10, 10);\">• 12/15/14 at Indiana, had fifth straight double-figure game with 13 points.&nbsp;</span></p>"
+      },
+      "thumb": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/LCuRrH4.png"
+      }
+    },
+    {
+      "id": "cf8e98c4-987c-4035-8f34-3701e457f9e9",
+      "__typename": "Player",
+      "name": "Kyrie  Irving",
+      "age": "25",
+      "about": {
+        "html": "<p><span style=\"background-color: rgb(254, 254, 254); color: rgb(10, 10, 10);\">Played in 53 games (all starts) for Cleveland…averaged 19.6 points on .448 shooting, including .321 from three-point territory, 3.0 rebounds, 4.7 assists and 1.1 steals in 31.5 minutes per game…also averaged a career-low 2.3 turnovers…shot a career-best .885 from the free throw line, which ranked 2nd in the Eastern Conference and 10th in the NBA…scored at least 20 points 28 times and at least 30 points on eight occasions…averaged 6.4 points in the fourth quarter (9th-best in NBA)…recorded five assists or more on 26 occasions…at Washington on Jan. 6, finished with 32 points on a season-best .636 shooting percentage (14-22 from the field), five rebounds, three assists, two steals and one block in 34 minutes; scored 19 points in the fourth quarter, his most in any quarter of the season…hit his 2,000th career field goal at Dallas on Jan. 12</span></p>"
+      },
+      "thumb": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/Lcu75FM.png"
+      }
+    },
+    {
+      "id": "42e287fd-8ff4-4d70-9a13-264c67c09484",
+      "__typename": "Player",
+      "name": "Steven Adams",
+      "age": "34",
+      "about": {
+        "html": "<p><span style=\"background-color: rgb(254, 254, 254); color: rgb(10, 10, 10);\">Established new career-highs in points (636), rebounds (533), blocks (89), steals (42) and minutes (2014). Tied his career-high with 17 points at San Antonio (4/12). Scored 12 points and 11 rebounds at Philadelphia (3/18). Matched a scoring career-high with 17 points alongside 10 boards at Portland (1/10). Recorded his first double-double of the season with 11 points and 12 rebounds vs. Portland (12/16). 25 games of double-digit scoring. 12 games of doubledigit rebounds. Nine games with three-plus blocked shots. Six double-doubles. Led team in scoring once and rebounds 11 times. Two games DNP – Right Elbow Strain.&nbsp;</span></p>"
+      },
+      "thumb": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/mnNAqV6.png"
+      }
+    },
+    {
+      "id": "ada75e11-a509-4a68-9e81-c4383b16bb21",
+      "__typename": "Player",
+      "name": "Anderson Wu",
+      "age": "25",
+      "about": {
+        "html": "<p><span style=\"background-color: rgb(254, 254, 254); color: rgb(10, 10, 10);\">Averaged 13.7 points and 4.9 rebounds in 61 appearances (5 starts)…Recorded three double-doubles and scored in double figures 42 times…Shot .854 from the free throw line… Appeared in all four of New Orleans’ post-season games against Golden State, averaging 5.6 points and 4.2 rebounds…Scored 26 points on 10-of-14 (.714) shooting, including 2-of-3 from three-point range 4/23 vs. GSW… Returned from a MCL sprain 4/1 at LAL and scored 17 points on five-of-eleven from the field…Exited the game after seven minutes of action due to a right MCL sprain 2/21 at MIA…Scored 18 points, including his 5,000th career point 1/25 vs. DAL…Did not dress 1/23 due to bilateral ankle inflammation…</span></p>"
+      },
+      "thumb": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/aUtAIXU.png"
+      }
+    },
+    {
+      "id": "c36b03f0-0714-4253-8520-7af237725373",
+      "__typename": "Player",
+      "name": "DeVaughn",
+      "age": "24",
+      "about": {
+        "html": "<p><span style=\"background-color: rgb(254, 254, 254); color: rgb(10, 10, 10);\">2012-13: Notched averages of 21.1 points (ninth in NBA), career highs of 9.1 rebounds and 2.6 assists, 0.84 steals, 1.23 blocks and 37.7 minutes in 74 games (all starts) … Shot 48.4 percent from the field and 81.0 percent from the free throw line … Just the fourth Trail Blazer in team history to rank in the top 10 in the NBA in scoring multiple seasons (Geoff Petrie, Kiki Vandeweghe, Clyde Drexler) … Only NBA player to average 21.0 points and 9.0 rebounds per game</span></p>"
+      },
+      "thumb": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/ovP7ncw.png"
+      }
+    },
+    {
+      "id": "0e0279d1-2f70-42a2-8991-6af09c6a5bf3",
+      "__typename": "Player",
+      "name": "Wendell Carter",
+      "age": "18",
+      "about": {
+        "html": "<p><span style=\"background-color: rgb(254, 254, 254); color: rgb(10, 10, 10);\">2012-13 (Freshman): Named to the Big East All- Rookie Team as a freshman. Named Big East Preseason Rookie of the Year. Started in all 32 of his career games played. Ranks first all-time at Pitt in field goal percentage (.571), second in blocked shots (63), and sixth in rebounds for freshman seasons (192). Ranked first on team in rebounds (6.3 rpg) and blocks (2.0 bpg). Ranked fifth on team in scoring with 7.2 points per game. Scored in double figures on six occasions. Scored a career-high 16 points along with 10 rebounds against Bethune Cookman. Grabbed a season-high 14 rebounds along with eight points against Duquesne. Scored 13 points along with 11 rebounds in an NCAA Tournament game against Wichita State. Blocked a career-high five shots against South Florida.&nbsp;</span></p>"
+      },
+      "thumb": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/o10EQ73.png"
+      }
+    },
+    {
+      "id": "e2394995-47f2-4d08-8355-d0ac86a73c11",
+      "__typename": "Player",
+      "name": "Malik Beasley",
+      "age": "22",
+      "about": {
+        "html": "<p><span style=\"background-color: rgb(254, 254, 254); color: rgb(10, 10, 10);\">Appeared in 230 games and averaged 7.2 points and 1.6 rebounds in 16.9 minutes.&nbsp;</span></p><p><span style=\"background-color: rgb(254, 254, 254); color: rgb(10, 10, 10);\">2015-16: Appeared in 52 games with FC Barcelona and averaged 9.6 points, 2.2 rebounds, 1.1 assists and 0.7 steals in 19.6 minutes. Made the Spanish National Team. Liga Endesa Finalist and Supercup Winner.</span></p><p><span style=\"background-color: rgb(254, 254, 254); color: rgb(10, 10, 10);\">2014-15: Appeared in 50 games with FC Barcelona and averaged 8.5 points, 1.7 rebounds, 1.2 assists and 0.7 steals in 18.7 minutes. Made the Spanish National Team. Spanish Cup Finalist. Liga Endesa Champion. Played in six games during the World Cup in Spain.</span></p><p><span style=\"background-color: rgb(254, 254, 254); color: rgb(10, 10, 10);\">2013-14: Appeared in 59 games with FC Barcelona and averaged 7.5 points, 1.5 rebounds and 0.8 assists in18.1 minutes. Made the Spanish National Under-20 team for the second year and led team to the Euroleague Final Four and Spanish ACB Finals.</span></p><p><span style=\"background-color: rgb(254, 254, 254); color: rgb(10, 10, 10);\">2012-13: Appeared in 45 games with FC Barcelona and averaged 4.0 points and 1.0 rebounds in 11.0 minutes. Made the Spanish National Under-20 Team and appeared in six European Championship Under-20 games in Slovenia.</span></p><p><span style=\"background-color: rgb(254, 254, 254); color: rgb(10, 10, 10);\">2011-12: Appeared in 24 games with Unicaja Malaga and averaged 4.2 points and 1.5 assists in 15.2 minutes. Made the Spanish National Under-18 Team and led that team to the Spanish Under-18 Championship Semifinals and European Under-18 Championship Finals. Appeared at the FIBA Eurobasket Under-18 All-Star game in Lithuania.</span></p>"
+      },
+      "thumb": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/QRM73FP.png"
+      }
+    },
+    {
+      "id": "8de4402c-2c27-44f3-836b-74a76f6abfca",
+      "__typename": "Player",
+      "name": "Tim  Frazier",
+      "age": "28",
+      "about": {
+        "html": "<p><span style=\"background-color: rgb(254, 254, 254); color: rgb(10, 10, 10);\">2014-15:</span></p><p><span style=\"background-color: rgb(254, 254, 254); color: rgb(10, 10, 10);\">Appeared in 11 games (three starts) with Philadelphia and Portland, averaging 5.2 points, 5.5 assists and 2.5 rebounds per contest…Logged four minutes of action over the course of two games during the 2015 NBA playoffs against Memphis…Recorded five points, 11 assists, five rebounds and two steals in NBA debut 2/6 at BOS…Registered 10 points, seven assists and six rebounds 2/9 vs. GSW…Netted 13 points to go with seven assists 2/20 vs. IND…Recorded 13 points, 10 assists and four rebounds in Portland’s regular season finale 4/15 at DAL…</span></p><p><br></p><p><span style=\"background-color: rgb(254, 254, 254); color: rgb(10, 10, 10);\">D-League:</span></p><p><span style=\"background-color: rgb(254, 254, 254); color: rgb(10, 10, 10);\">Named the 2015 D-League Most Valuable Player as well as 2015 D-League Rookie of the Year while earning All-NBA D-League First Team, NBA D-League All-Rookie First Team and NBA D-League All-Defensive Second Team honors…Named a participant in the 2015 NBA D-League Game at the Barclays Center in Brooklyn, N.Y…Appeared in 41 games (40 starts) for the Maine Red Claws, averaging 16.1 points, 9.5 assists, 7.1 rebounds and 1.7 steals…Ranked second in the D-League for APG…Recorded four triple-doubles and 11 double-doubles during the season.</span></p>"
+      },
+      "thumb": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/WBtH3id.png"
+      }
+    },
+    {
+      "id": "e5a665e2-0013-4dd0-adc5-c2c60cb16fd3",
+      "__typename": "Player",
+      "name": "Troy  Caupain",
+      "age": "22",
+      "about": {
+        "html": "<p>CAREER TRANSACTIONS: Was not drafted by an NBA franchise...Signed as a free agent by Orlando (Aug. 31, 2017)…Waived by Orlando (Oct. 13, 2017)…Played with Lakeland of the NBA G League (2017-18)…Signed as a free agent by Orlando to a two-way contract (Jul. 11, 2018).</p><p>PROFESSIONAL CAREER: 2017-18: Played and started in all 50 games with the Lakeland Magic of the NBA G League, averaging 15.6 ppg., 7.5 rpg., a team-high 5.8 apg. and a team-high 1.44 stlpg. in 37.7 minpg., while shooting .841 (143-170) from the free throw line…Was the only player to appear in all 50 games with Lakeland…Also played in Italy with G.S.A. Udine of the Serie A2 Basket league after the NBA G League season concluded.</p>"
+      },
+      "thumb": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/ZUVmrRB.png"
+      }
+    },
+    {
+      "id": "730f1a9b-ce91-4bbe-aa21-344d6500f63d",
+      "__typename": "Player",
+      "name": "Leo Lee",
+      "age": "23",
+      "about": {
+        "html": "<p><span style=\"color: rgb(10, 10, 10); background-color: rgb(254, 254, 254);\">Played in 137 career games (102 starts) during four years at the University of Cincinnati, averaging 9.6 ppg., 3.8 apg., 3.6 rpg. and 1.10 stlpg. in 29.8 minpg….Became the first player in school history to record at least 1,300 points and 500 assists during his career…Left school as the Bearcats’ all-time assists leader with 515…Also ranked on Cincinnati’s all-time list in career victories (second, 102), consecutive games played (second, 137), minutes played (third, 3,980) and games played (fourth, 137)…Named First Team All-American Athletic Conference in 2015-16 and Second Team All-American Athletic Conference in 2016-17.</span></p>"
+      },
+      "thumb": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/g6MFS8V.png"
+      }
+    }
+  ],
+  "teams": [
+    {
+      "id": "2f0b1d61-2af7-4139-a614-905a2e5be95f",
+      "__typename": "Team",
+      "name": "Bulls",
+      "logo": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/DDZOlZ3.png"
+      },
+      "about": {},
+      "manager": "Tom Cruse",
+      "images": [],
+      "players": [
+        "cc1f2c49-6636-4898-9788-9966dd30792d",
+        "ada75e11-a509-4a68-9e81-c4383b16bb21",
+        "8de4402c-2c27-44f3-836b-74a76f6abfca"
+      ],
+      "couch": "Anderson Lee"
+    },
+    {
+      "id": "66c3ab6b-71f8-4901-a791-44c4cff7235e",
+      "__typename": "Team",
+      "name": "Celtics",
+      "logo": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/7dzOHRg.png"
+      },
+      "about": {},
+      "couch": "Tory Frazier",
+      "players": [
+        "e5a665e2-0013-4dd0-adc5-c2c60cb16fd3",
+        "e2394995-47f2-4d08-8355-d0ac86a73c11",
+        "8de4402c-2c27-44f3-836b-74a76f6abfca"
+      ]
+    },
+    {
+      "id": "2bfd4fc2-354a-4b30-aa57-0424bbed2fd4",
+      "__typename": "Team",
+      "name": "Hawks",
+      "logo": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/nNxJ8Pv.png"
+      },
+      "about": {},
+      "couch": "William Chi",
+      "players": [
+        "8de4402c-2c27-44f3-836b-74a76f6abfca",
+        "e2394995-47f2-4d08-8355-d0ac86a73c11",
+        "0e0279d1-2f70-42a2-8991-6af09c6a5bf3"
+      ]
+    },
+    {
+      "id": "c8e3d166-394b-4904-8b6b-e341fc610671",
+      "__typename": "Team",
+      "name": "Warriors",
+      "logo": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/sv7XI1q.png"
+      },
+      "about": {},
+      "couch": "Irving Wu",
+      "players": [
+        "ada75e11-a509-4a68-9e81-c4383b16bb21",
+        "c36b03f0-0714-4253-8520-7af237725373",
+        "cf8e98c4-987c-4035-8f34-3701e457f9e9"
+      ]
+    },
+    {
+      "id": "994f9c43-e581-42ba-93f8-643a587e1bb3",
+      "__typename": "Team",
+      "name": "Nuggets",
+      "logo": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/eTxiYRI.png"
+      },
+      "about": {},
+      "couch": "Irving Chang",
+      "players": [
+        "cc1f2c49-6636-4898-9788-9966dd30792d",
+        "cf8e98c4-987c-4035-8f34-3701e457f9e9",
+        "ada75e11-a509-4a68-9e81-c4383b16bb21"
+      ]
+    }
+  ]
+}

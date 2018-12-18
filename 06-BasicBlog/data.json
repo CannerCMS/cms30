@@ -1,0 +1,132 @@
+{
+  "categories": [
+    {
+      "id": "08e7a6cb-2f87-4501-ac9d-3ec1eb45356d",
+      "__typename": "Category",
+      "name": "Cat"
+    },
+    {
+      "id": "43431240-5294-47e3-a551-b6bd676d27a1",
+      "__typename": "Category",
+      "name": "Dog"
+    },
+    {
+      "id": "091ccd6c-d01d-4d05-9b20-123c64c7ee2e",
+      "__typename": "Category",
+      "name": "Ant"
+    }
+  ],
+  "posts": [
+    {
+      "id": "16561d36-a358-42b4-a8f0-eb3d363e1596",
+      "__typename": "Post",
+      "title": "Which Of These Cat Facts Are True And Which Did I Just Make Up?",
+      "content": {
+        "html": "<p><span style=\"color: rgb(119, 119, 119);\"><img src=\"https://media1.popsugar-assets.com/files/thumbor/xYOzSDWHeDdUnUJ8RoVg5AwtVIE/fit-in/160x160/filters:format_auto-!!-:strip_icc-!!-/2018/11/29/745/n/1922729/3203ff775c00197568c5d5.22540142_.jpg\"></span></p><p>How do you usually finish a sweat sesh: chug some more water? Fist-bump your fellow class-goer with a look that says, \"Thank god we survived?\" Head to the showers? Grab a eucalyptus towel if you're at a bougie high-end gym? No matter what your post-workout ritual is, you've been doing it all wrong.</p><p><br></p><p>Turns out, there's only one way to end a fitness class, and that's with a high five from a cat. I didn't realize how much I needed a paw-bump from an encouraging feline until I watched this video from CrossFit's Instagram. The friendly tabby gave CrossFitters high fives as they jogged by at a CrossFit box in China. He didn't miss a beat as he stuck his paw out for each patron that jogged past.</p><p><br></p><p>You know what my dog does when I finish a workout? Nothing - she just stares at me to be let out for the hundredth time that day. I'm not much of a cat person, but this CrossFit cat has convinced me every gym and fitness class needs one.</p><p>NewsOK has disabled the comments for this article.</p>"
+      },
+      "trashed": false,
+      "draft": false,
+      "coverPicture": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://media1.popsugar-assets.com/files/thumbor/xYOzSDWHeDdUnUJ8RoVg5AwtVIE/fit-in/160x160/filters:format_auto-!!-:strip_icc-!!-/2018/11/29/745/n/1922729/3203ff775c00197568c5d5.22540142_.jpg"
+      },
+      "topLevel": false
+    },
+    {
+      "id": "17142935-bc04-4f9f-8b0f-024170c72348",
+      "__typename": "Post",
+      "title": "This Cat Gives High Fives at a CrossFit Gym, and Wow, Best Cheerleader Ever?",
+      "content": {
+        "html": "<p><span style=\"color: rgb(119, 119, 119);\">Foxes are their own species, who are more closely related to dogs than cats as they are part of the genus Canidae (which also contains dogs, hyenas, and wolves). You could not cross-breed a cat and a dog as they are different species. They also would not like it, so don't bloody try it.</span></p>"
+      },
+      "trashed": false,
+      "draft": false,
+      "coverPicture": {
+        "contentType": "",
+        "size": 0,
+        "name": "",
+        "url": ""
+      },
+      "topLevel": false
+    },
+    {
+      "id": "144d1e0e-8eef-4bc8-8765-39876fa5f2bd",
+      "__typename": "Post",
+      "title": "LeBron James says Lonzo Ball is ‘cat-quick’ on defense",
+      "content": {
+        "html": "<p><span style=\"color: rgb(119, 119, 119);\"><img src=\"https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBQlcZL.img?h=169&amp;w=300&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=976&amp;y=462\">© Photo by Harry How/Getty Images</span></p><p>But is Lonzo Ball actually as quick as a cat? Let’s take a closer look at what the Lakers guard did to impress LeBron James against the Mavericks.</p><p>Lonzo Ball was all over the place making an impact defensively as the Los Angeles Lakers came back from a sluggish start to beat the Dallas Mavericks in a 114-103 win on Friday night. Ball jumped passing lanes, smothered ballhandlers and stripped hapless post players en route to five steals while impressing teammate LeBron James along the way.</p><p>“He’s cat-quick. His length, his hands are very fast, very quick. His ability to pick up full court,” James said. “He doesn’t get tired. It allows us to extend our defense as well.”</p><p>Ball making such a positive difference defensively makes him an abnormality among young NBA players, who are often overmatched on that end of the floor. Lakers head coach Luke Walton even admitted that he and the rest of the coaching staff were “shocked” by Ball’s tenacity and competency when they initially brought him in last season.</p><p>“Defense is normally the last thing you do when you are a high draft pick. We saw his defensive instincts were way more advanced than we thought,” Walton said before adding that Ball has “been doing a really nice job of that lately.”</p><p>Our own Nicky Shapiro took a serious look at what Walton and James were praising in his latest breakdown, so that’s not what I’m here to do. Why double-up?</p><p>Instead, in the latest installment of Faker Film Room, I attempted to answer the most important question LeBron’s praise raised: Is Lonzo Ball actually as quick as a cat?</p><p>Let’s take a closer look:</p><p>As you can see, calling Ball ‘cat-quick’ is probably an understatement. He’s even quicker than a cat, and if he can start putting together strings (yarns?) of efforts like the one he had against the Mavericks, the Lakers are going to have a pretty purrfect prospect on their hands.</p><p>All quotes obtained firsthand unless otherwise noted. All stats per NBA.com and Basketball-Reference.com. You can follow Harrison on Twitter at @hmfaigen.</p>"
+      },
+      "trashed": false,
+      "draft": false,
+      "coverPicture": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBQlcZL.img?h=169&w=300&m=6&q=60&o=f&l=f&x=976&y=462"
+      },
+      "topLevel": false
+    },
+    {
+      "id": "b7c7c387-3aba-4bdb-a2db-dfe330a6e8c4",
+      "__typename": "Post",
+      "title": "Delaware woman’s missing dog found, but not returned",
+      "content": {
+        "html": "<p>DELMAR, Del. — A Delaware woman who thought her Pomeranian was dead has found out the dog is alive but adopted by someone else who doesn’t want to give it back.</p><p>The News Journal of Wilmington reports that Angela Andrade is trying to get 8-year-old Jakey back after thinking the dog died when she left it with her father and went out of town. Andrade said her father mislead her to believe that Jakey was dead when the dog had only gone missing.</p><p>The dog was found by a neighbor, turned over to an animal welfare officer and taken to a shelter. Jakey was adopted by an unnamed individual before Andrade could get to shelter to claim him. The new owner has declined to return the dog.</p><p>Copyright 2018 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</p>"
+      },
+      "trashed": false,
+      "draft": true,
+      "coverPicture": {
+        "contentType": "",
+        "size": 0,
+        "name": "",
+        "url": ""
+      },
+      "topLevel": false,
+      "categories": [
+        "43431240-5294-47e3-a551-b6bd676d27a1"
+      ]
+    },
+    {
+      "id": "f36f1147-037f-4509-8b39-bf858dcb0d3f",
+      "__typename": "Post",
+      "title": "Dog named Toto rescued from storm drain after being missing for 3 days",
+      "content": {
+        "html": "<p>A dog named Toto was lost for three days -- but not with Dorothy in the Land of Oz.</p><p>This Toto was lost in a storm drain in Rockland County, New York.</p><p>But this story -- just like classic \"The Wizard of Oz\" -- seems to have had a happy ending.</p><p>Toto, who went missing Tuesday, was rescued Friday by police from the drain near his home in Haverstraw.</p><p>“The dog was reunited with its owner,” Haverstraw police said in Facebook post.</p><p><span style=\"color: rgb(119, 119, 119);\">A storm drain cover is removed revealing a small dog that had been missing for 3 days in Rockland County, New York.</span></p><p>Toto's owner, Anna Marie Miller, said she's had the 16-year-old Lhasa Apso since his previous owner died eight years ago.</p><p>“He was my neighbor's dog, and my neighbor passed away, so I kept him,” she said.</p><p>But on Tuesday, Miller said a smoke alarm went off in her home and her niece opened the door. That's when Toto apparently walked out, she added.</p><p>“My niece was in the house, and when I came home I could not find him,” Miller said.</p><p>Miller, 81, said that after Toto went missing her niece posted on Facebook to try to find him. Her neighbors helped search the woods, but Toto was nowhere to be found, she added.</p><p>“I thought maybe he was in a ditch someplace, or he was in the woods and that he died,” Miller said. “I was praying that they would find him.”</p><p><span style=\"color: rgb(119, 119, 119);\">Police rescue a small dog that had been missing for 3 days in Rockland County, New York.</span></p><p>On Friday, a woman in her neighborhood was walking near a storm drain near Miller’s home, and heard a dog barking, Miller said.</p><p>The woman then called the police, who responded to the drain, opened it and scooped Toto out.</p><p>Miller said Toto is shaken up, though.</p><p>“It looks like he’s traumatized now,” she said.</p><p>She added that she took him to see a veterinarian, but Toto hasn't had an appettite since being rescued.</p><p>“I'm giving him a few days, you know, and see,\" Miller said. \"He's not eating or anything. But I think it takes time, you know?”</p>"
+      },
+      "trashed": false,
+      "draft": true,
+      "coverPicture": {
+        "contentType": "",
+        "size": 0,
+        "name": "",
+        "url": ""
+      },
+      "topLevel": false,
+      "categories": [
+        "43431240-5294-47e3-a551-b6bd676d27a1"
+      ]
+    },
+    {
+      "id": "63c6736a-1cf4-4aab-b357-b5b9bcc1bf84",
+      "__typename": "Post",
+      "title": "Several Dog Food Brands Recalled Due to Harmful Levels of Vitamin D",
+      "content": {
+        "html": "<p>Sunshine Mills, a creator of several brands of pet food has recalled three of its puppy and dog food products due to potentially high levels of vitamin D.</p><p>The brands include Evolve, Sportsman’s Pride, and Triumph. The high levels of vitamin D could lead to various health concerns, including kidney failure.</p><p>The company issued a statement on the U.S. Food and Drug Administration’s website detailing the products and symptoms consumers’ pets may face.</p>"
+      },
+      "trashed": false,
+      "draft": true,
+      "coverPicture": {
+        "contentType": "",
+        "size": 0,
+        "name": "",
+        "url": ""
+      },
+      "topLevel": false,
+      "categories": [
+        "43431240-5294-47e3-a551-b6bd676d27a1"
+      ]
+    }
+  ]
+}

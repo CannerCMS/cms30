@@ -1,0 +1,372 @@
+{
+  "albums": [
+    {
+      "id": "395c40af-b3e5-40d2-a795-560cd5d0e797",
+      "__typename": "Album",
+      "artwork": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/nwITHpO.jpg"
+      },
+      "name": "Purpose (Deluxe)",
+      "isComplete": true,
+      "isMasteredForItunes": false,
+      "isSingle": false,
+      "recordLabel": "",
+      "releaseDate": "2015-11-12T16:00:00.583Z",
+      "trackCount": 19,
+      "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr",
+      "artists": "05cfe2ee-d0df-483a-aa58-e49f90c8ceb9",
+      "songs": [
+        "56758f8b-bf04-42d5-8be6-169e0f8f6850",
+        "0ebda618-7bf4-40d8-9224-e352bd27c05a",
+        "669ab98d-cb3b-402d-a148-51df7ef58b71"
+      ]
+    },
+    {
+      "id": "5a7f406e-8815-46dd-9b69-550fb823fcbf",
+      "__typename": "Album",
+      "artwork": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/DeAq3Bs.jpg"
+      },
+      "name": "Live Classix 2007",
+      "releaseDate": "2006-12-31T16:00:00.802Z",
+      "isComplete": true,
+      "isSingle": false,
+      "recordLabel": "",
+      "trackCount": 8,
+      "url": "https://open.spotify.com/album/7JmO7tLkMlmQSOOciQUyBS",
+      "artists": "5ca46bf0-b386-4bdc-b02a-5f467dcd9152",
+      "songs": [
+        "e22aaa9e-88a9-4d3c-b0da-fd9f3cb69670",
+        "3bc14b89-a36e-41da-9c50-9efd6997b0ce"
+      ]
+    },
+    {
+      "id": "a12c16c6-2454-4323-b27d-2e3ba6d617de",
+      "__typename": "Album",
+      "artwork": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/OjWUbAi.jpg"
+      },
+      "name": "A Rush Of Blood To The Head",
+      "releaseDate": "2002-08-07T16:00:00.628Z",
+      "isComplete": true,
+      "isSingle": false,
+      "recordLabel": "",
+      "trackCount": 11,
+      "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ",
+      "songs": [
+        "1dbad578-dbf5-46a7-a8c9-17c7a1a09cda",
+        "a5abb8d4-49da-4b64-8d95-b60b445490a9"
+      ],
+      "artists": "36fac796-8302-41a7-a5f7-0fe9af4c7724"
+    },
+    {
+      "id": "49dd3fd8-95d6-49fc-a1c4-4f64aee70d90",
+      "__typename": "Album",
+      "artwork": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/eapcI2x.jpg"
+      },
+      "name": "The Days / Nights",
+      "releaseDate": "2013-12-31T16:00:00.921Z",
+      "isComplete": true,
+      "isSingle": false,
+      "recordLabel": "",
+      "trackCount": 4,
+      "url": "https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF",
+      "songs": [
+        "7ad54852-dd9c-4bc5-bbce-fa316edad2eb",
+        "1d20b584-a896-4fcd-850f-177633620968"
+      ],
+      "artists": "843e86a8-d1d4-474e-825a-edc3fbbfb4af"
+    }
+  ],
+  "artists": [
+    {
+      "id": "5ca46bf0-b386-4bdc-b02a-5f467dcd9152",
+      "__typename": "Artist",
+      "name": "Steve Acho",
+      "spotifyUrl": "https://open.spotify.com/artist/5TzXQAdTgdJLS1Tl6Gggtn",
+      "popularity": 60,
+      "followers": 3588,
+      "genreNames": [
+        "channel pop",
+        "post-teen pop",
+        "viral pop"
+      ],
+      "thumb": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/sDVHfGE.jpg"
+      }
+    },
+    {
+      "id": "8136e909-a6b0-4584-a3a2-cff5da9cb8d6",
+      "__typename": "Artist",
+      "name": "Ellie Goulding",
+      "spotifyUrl": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ",
+      "popularity": 83,
+      "followers": 5576489,
+      "genreNames": [
+        "dance pop",
+        "edm",
+        "electropop",
+        "pop",
+        "r&b"
+      ],
+      "thumb": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/O3zOy1g.jpg"
+      }
+    },
+    {
+      "id": "843e86a8-d1d4-474e-825a-edc3fbbfb4af",
+      "__typename": "Artist",
+      "name": "Avicii",
+      "spotifyUrl": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6",
+      "popularity": 85,
+      "followers": 11062759,
+      "genreNames": [
+        "big room",
+        "edm",
+        "pop"
+      ],
+      "thumb": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/GV6Okka.jpg"
+      }
+    },
+    {
+      "id": "3a7277a5-5373-4c1d-9959-bdd058e304e1",
+      "__typename": "Artist",
+      "name": "Quinn XCII",
+      "spotifyUrl": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd",
+      "popularity": 75,
+      "followers": 230057,
+      "genreNames": [
+        "electropop",
+        "indie pop rap",
+        "indie poptimism",
+        "pop rap"
+      ],
+      "thumb": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/OqjHWWT.jpg"
+      }
+    },
+    {
+      "id": "41de6736-dc9f-4e16-9a70-17cc8cab857d",
+      "__typename": "Artist",
+      "name": "Phoebe Ryan",
+      "spotifyUrl": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr",
+      "popularity": 67,
+      "followers": 163861,
+      "genreNames": [
+        "dance pop",
+        "electropop",
+        "pop",
+        "post-teen pop"
+      ],
+      "thumb": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/WNI1Utn.jpg"
+      }
+    },
+    {
+      "id": "36fac796-8302-41a7-a5f7-0fe9af4c7724",
+      "__typename": "Artist",
+      "name": "Coldplay",
+      "spotifyUrl": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU",
+      "popularity": 89,
+      "followers": 16136568,
+      "genreNames": [
+        "pop",
+        "permanent wave"
+      ],
+      "thumb": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/R3gqOSE.jpg"
+      }
+    },
+    {
+      "id": "05cfe2ee-d0df-483a-aa58-e49f90c8ceb9",
+      "__typename": "Artist",
+      "name": "Justin Bieber",
+      "spotifyUrl": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s",
+      "popularity": 90,
+      "followers": 25622754,
+      "genreNames": [
+        "canadian pop",
+        "dance pop",
+        "pop",
+        "post-teen pop"
+      ],
+      "thumb": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/5Yv9oYo.jpg"
+      }
+    }
+  ],
+  "songs": [
+    {
+      "id": "56758f8b-bf04-42d5-8be6-169e0f8f6850",
+      "__typename": "Song",
+      "name": "Mark My Words",
+      "isPlayable": true,
+      "popularity": 63,
+      "url": "https://open.spotify.com/track/2SnNaoNhMjC1WRMTWD8qTX",
+      "releaseDate": "2015-11-13T04:08:47.994Z",
+      "artists": "05cfe2ee-d0df-483a-aa58-e49f90c8ceb9",
+      "discNumber": 1,
+      "durationInMillis": 134346,
+      "trackNumber": 1
+    },
+    {
+      "id": "0ebda618-7bf4-40d8-9224-e352bd27c05a",
+      "__typename": "Song",
+      "name": "Sorry",
+      "isPlayable": true,
+      "popularity": 80,
+      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF",
+      "releaseDate": "2015-11-12T16:00:00.016Z",
+      "artists": "05cfe2ee-d0df-483a-aa58-e49f90c8ceb9",
+      "discNumber": 1,
+      "durationInMillis": 200786,
+      "trackNumber": 4
+    },
+    {
+      "id": "669ab98d-cb3b-402d-a148-51df7ef58b71",
+      "__typename": "Song",
+      "name": "What Do You Mean?",
+      "isPlayable": true,
+      "popularity": 77,
+      "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs",
+      "releaseDate": "2015-11-12T16:00:00.275Z",
+      "artists": "05cfe2ee-d0df-483a-aa58-e49f90c8ceb9",
+      "discNumber": 1,
+      "durationInMillis": 205680,
+      "trackNumber": 3
+    },
+    {
+      "id": "e22aaa9e-88a9-4d3c-b0da-fd9f3cb69670",
+      "__typename": "Song",
+      "name": "Let It Be (live Acoustic)",
+      "isPlayable": true,
+      "popularity": 59,
+      "url": "https://open.spotify.com/track/1Oe4Fpx6t6wxnVDN38X5X5",
+      "releaseDate": "2006-12-31T16:00:00.287Z",
+      "artists": "5ca46bf0-b386-4bdc-b02a-5f467dcd9152",
+      "discNumber": 1,
+      "durationInMillis": 172733,
+      "trackNumber": 2
+    },
+    {
+      "id": "3bc14b89-a36e-41da-9c50-9efd6997b0ce",
+      "__typename": "Song",
+      "name": "Great Balls of Fire (live Acoustic)",
+      "isPlayable": true,
+      "popularity": 12,
+      "url": "https://open.spotify.com/track/0ZQwoh3ZYrr6JPtf46oBD4",
+      "releaseDate": "2006-12-31T16:00:00.390Z",
+      "artists": {
+        "id": "5ca46bf0-b386-4bdc-b02a-5f467dcd9152",
+        "name": "Steve Acho",
+        "spotifyUrl": "https://open.spotify.com/artist/5TzXQAdTgdJLS1Tl6Gggtn",
+        "popularity": 60,
+        "followers": 3588,
+        "genreNames": [
+          "channel pop",
+          "post-teen pop",
+          "viral pop"
+        ],
+        "thumb": {
+          "contentType": "",
+          "name": "",
+          "size": 0,
+          "url": "https://i.imgur.com/sDVHfGE.jpg"
+        },
+        "connect": {
+          "id": "5ca46bf0-b386-4bdc-b02a-5f467dcd9152"
+        }
+      },
+      "discNumber": 1,
+      "durationInMillis": 112000,
+      "trackNumber": 1
+    },
+    {
+      "id": "1dbad578-dbf5-46a7-a8c9-17c7a1a09cda",
+      "__typename": "Song",
+      "name": "The Scientist",
+      "isPlayable": true,
+      "popularity": 83,
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle",
+      "releaseDate": "2002-08-07T16:00:00.703Z",
+      "artists": "36fac796-8302-41a7-a5f7-0fe9af4c7724",
+      "discNumber": 1,
+      "durationInMillis": 309600,
+      "trackNumber": 4
+    },
+    {
+      "id": "a5abb8d4-49da-4b64-8d95-b60b445490a9",
+      "__typename": "Song",
+      "name": "In My Place",
+      "isPlayable": true,
+      "popularity": 69,
+      "url": "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah",
+      "releaseDate": "2002-08-07T16:00:00.622Z",
+      "artists": "36fac796-8302-41a7-a5f7-0fe9af4c7724",
+      "discNumber": 1,
+      "durationInMillis": 226680,
+      "trackNumber": 2
+    },
+    {
+      "id": "7ad54852-dd9c-4bc5-bbce-fa316edad2eb",
+      "__typename": "Song",
+      "name": "The Nights",
+      "isPlayable": true,
+      "popularity": 78,
+      "url": "https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc",
+      "releaseDate": "2013-12-31T16:00:00.919Z",
+      "artists": "843e86a8-d1d4-474e-825a-edc3fbbfb4af",
+      "discNumber": 1,
+      "durationInMillis": 176658,
+      "trackNumber": 2
+    },
+    {
+      "id": "1d20b584-a896-4fcd-850f-177633620968",
+      "__typename": "Song",
+      "name": "The Days",
+      "isPlayable": true,
+      "popularity": 67,
+      "url": "https://open.spotify.com/track/5Iy2Jj87Ha0C0IBlNE1I4y",
+      "releaseDate": "2013-12-31T16:00:00.583Z",
+      "artists": "843e86a8-d1d4-474e-825a-edc3fbbfb4af",
+      "discNumber": 1,
+      "durationInMillis": 278480,
+      "trackNumber": 1
+    }
+  ]
+}

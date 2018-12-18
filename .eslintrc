@@ -1,0 +1,28 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:flowtype/recommended"
+  ],
+  "plugins": [
+    "react",
+    "flowtype"
+  ],
+  "parserOptions": {
+    "ecmaVersion": 7,
+    "ecmaFeatures": {
+      "jsx": true,
+      "modules": true
+    },
+    "sourceType": "module"
+  },
+  "rules": {
+    "react/display-name": 0,
+    "react/react-in-jsx-scope": 0,
+    "no-unused-vars": ["error", { "varsIgnorePattern": "CannerScript" }]
+  },
+  "env": {
+    "browser": true,
+    "node": true
+  }
+}

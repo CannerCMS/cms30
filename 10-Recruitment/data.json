@@ -1,0 +1,465 @@
+{
+  "companies": [
+    {
+      "id": "8217873a-a5b2-49c7-b24f-6b98e807a364",
+      "__typename": "Company",
+      "name": "Firebase",
+      "logo": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/2vZ2ee4.png"
+      },
+      "description": {
+        "html": "<p><span style=\"color: rgb(117, 117, 117);\">Firebase helps mobile app teams succeed.</span></p>"
+      }
+    },
+    {
+      "id": "b5669120-3524-40b4-ae79-c833aa23fe09",
+      "__typename": "Company",
+      "name": "Firestore",
+      "logo": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/Cb410cz.png"
+      },
+      "description": {
+        "html": ""
+      }
+    },
+    {
+      "id": "d181c7bf-cfe4-440f-9ebb-39d2b6d55e7e",
+      "__typename": "Company",
+      "name": "MongoDB",
+      "logo": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/MxkQRpY.png"
+      },
+      "description": {
+        "html": ""
+      }
+    },
+    {
+      "id": "9eaa0582-c6fa-4eb0-a74f-8bc1ff3bf5ae",
+      "__typename": "Company",
+      "name": "Canner",
+      "logo": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/wWRW9LF.png"
+      },
+      "description": {
+        "html": ""
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "id": "2ad3b20f-aae0-4ec7-9215-aef71d8b4357",
+      "__typename": "Job",
+      "description": {
+        "html": "<h3>Build apps fast, without managing infrastructure</h3><p><br></p><p>Firebase gives you functionality like analytics, databases, messaging and crash reporting so you can move quickly and focus on your users.</p>"
+      },
+      "gallery": [],
+      "postedDate": "2018-12-26T08:05:20.860Z",
+      "startDate": "2018-11-26T08:05:23.911Z",
+      "employedNeeded": 3,
+      "company": "8217873a-a5b2-49c7-b24f-6b98e807a364",
+      "job": "55380160-cdb6-4bdf-b75f-a90bad04476f",
+      "title": "senior iOS developer, Firebase"
+    },
+    {
+      "id": "2ad3b20f-aae0-4ec7-9215-0f-aa71d8b4357",
+      "__typename": "Job",
+      "description": {
+        "html": "<h3>Build apps fast, without managing infrastructure</h3><p><br></p><p>Firebase gives you functionality like analytics, databases, messaging and crash reporting so you can move quickly and focus on your users.</p>"
+      },
+      "gallery": [],
+      "postedDate": "2018-12-26T08:05:20.860Z",
+      "startDate": "2018-11-26T08:05:23.911Z",
+      "employedNeeded": 3,
+      "company": "8217873a-a5b2-49c7-b24f-6b98e807a364",
+      "job": "71548229-5d8d-4f46-9af8-645b373293e7",
+      "title": "Firebase customer service"
+    },
+    {
+      "id": "2ad3b20f-aae0-4ec7-9215-3b20f-a1d8b4357",
+      "__typename": "Job",
+      "description": {
+        "html": "<h3>Build apps fast, without managing infrastructure</h3><p><br></p><p>Firebase gives you functionality like analytics, databases, messaging and crash reporting so you can move quickly and focus on your users.</p>"
+      },
+      "gallery": [],
+      "postedDate": "2018-12-26T08:05:20.860Z",
+      "startDate": "2018-11-26T08:05:23.911Z",
+      "employedNeeded": 3,
+      "company": "8217873a-a5b2-49c7-b24f-6b98e807a364",
+      "job": "4816efae-3ebc-496f-8b68-65d211fcef68",
+      "title": "Firebase, Andoid Developer"
+    },
+    {
+      "id": "7eebcb89-87bc-4640-9db4-907867ddc553",
+      "__typename": "Job",
+      "description": {
+        "html": ""
+      },
+      "gallery": [],
+      "postedDate": "2018-12-26T08:10:40.685Z",
+      "startDate": "2018-12-23T08:11:00.092Z",
+      "employedNeeded": 2,
+      "company": "9eaa0582-c6fa-4eb0-a74f-8bc1ff3bf5ae",
+      "job": "4816efae-3ebc-496f-8b68-65d211fcef68",
+      "title": "Android Developer"
+    },
+    {
+      "id": "7eebcb89-87bc-4640-9db4-9cb89-87ddc553",
+      "__typename": "Job",
+      "description": {
+        "html": ""
+      },
+      "gallery": [],
+      "postedDate": "2018-12-26T08:10:40.685Z",
+      "startDate": "2018-12-23T08:11:00.092Z",
+      "employedNeeded": 2,
+      "company": "9eaa0582-c6fa-4eb0-a74f-8bc1ff3bf5ae",
+      "job": "55380160-cdb6-4bdf-b75f-a90bad04476f",
+      "title": "iOS developers [REMOTE]"
+    },
+    {
+      "id": "7eebcb89-87bc-4640-9db4-90cb89-83",
+      "__typename": "Job",
+      "description": {
+        "html": ""
+      },
+      "gallery": [],
+      "postedDate": "2018-12-26T08:10:40.685Z",
+      "startDate": "2018-12-23T08:11:00.092Z",
+      "employedNeeded": 2,
+      "company": "9eaa0582-c6fa-4eb0-a74f-8bc1ff3bf5ae",
+      "job": "35253a6e-bc62-4262-8163-bd2586ec0b7e",
+      "title": "Frontend Developer [REMOTE]"
+    },
+    {
+      "id": "004de5f1-be6b-4c07-b8e0-26caf243beec",
+      "__typename": "Job",
+      "description": {
+        "html": ""
+      },
+      "gallery": [],
+      "postedDate": "2018-12-18T08:11:52.681Z",
+      "startDate": "2018-11-25T08:11:55.653Z",
+      "employedNeeded": 2,
+      "company": "d181c7bf-cfe4-440f-9ebb-39d2b6d55e7e",
+      "job": "c782f441-87bc-454e-9395-122e702a74ff",
+      "title": "Junior Backend Developers"
+    },
+    {
+      "id": "004de5f1-be6b-4c07-b8e0-26cf1-be6b-4c0ec",
+      "__typename": "Job",
+      "description": {
+        "html": ""
+      },
+      "gallery": [],
+      "postedDate": "2018-12-18T08:11:52.681Z",
+      "startDate": "2018-11-25T08:11:55.653Z",
+      "employedNeeded": 2,
+      "company": "d181c7bf-cfe4-440f-9ebb-39d2b6d55e7e",
+      "job": "71548229-5d8d-4f46-9af8-645b373293e7",
+      "title": "Customer service"
+    },
+    {
+      "id": "39f2ecf7-4a89-43d8-8ccc-1ea085448def",
+      "__typename": "Job",
+      "description": {
+        "html": ""
+      },
+      "gallery": [],
+      "postedDate": "2018-12-25T08:12:25.816Z",
+      "startDate": "2018-11-25T08:12:29.554Z",
+      "employedNeeded": 2,
+      "company": "b5669120-3524-40b4-ae79-c833aa23fe09",
+      "job": "71548229-5d8d-4f46-9af8-645b373293e7",
+      "title": "Customer service"
+    },
+    {
+      "id": "39f2ecf7-4a89-43d8-8ccc-1ea2ecf7-4a89-def",
+      "__typename": "Job",
+      "description": {
+        "html": ""
+      },
+      "gallery": [],
+      "postedDate": "2018-12-25T08:12:25.816Z",
+      "startDate": "2018-11-25T08:12:29.554Z",
+      "employedNeeded": 2,
+      "company": "b5669120-3524-40b4-ae79-c833aa23fe09",
+      "job": "35253a6e-bc62-4262-8163-bd2586ec0b7e",
+      "title": "Junior Frontend Developer"
+    },
+    {
+      "id": "39f2ecf7-4a89-43d8-8ccc-1e9f2ec48def",
+      "__typename": "Job",
+      "description": {
+        "html": ""
+      },
+      "gallery": [],
+      "postedDate": "2018-12-25T08:12:25.816Z",
+      "startDate": "2018-11-25T08:12:29.554Z",
+      "employedNeeded": 2,
+      "company": "b5669120-3524-40b4-ae79-c833aa23fe09",
+      "job": "c782f441-87bc-454e-9395-122e702a74ff",
+      "title": "Senior backend developer"
+    }
+  ],
+  "jobTypes": [
+    {
+      "id": "35253a6e-bc62-4262-8163-bd2586ec0b7e",
+      "__typename": "JobType",
+      "name": "Frontend Developer"
+    },
+    {
+      "id": "87fa8183-2e1e-48d9-9b0d-c2443d0f7317",
+      "__typename": "JobType",
+      "name": "Marketing"
+    },
+    {
+      "id": "71548229-5d8d-4f46-9af8-645b373293e7",
+      "__typename": "JobType",
+      "name": "Customer service"
+    },
+    {
+      "id": "c782f441-87bc-454e-9395-122e702a74ff",
+      "__typename": "JobType",
+      "name": "Backend Developer"
+    },
+    {
+      "id": "4816efae-3ebc-496f-8b68-65d211fcef68",
+      "__typename": "JobType",
+      "name": "Android Developer"
+    },
+    {
+      "id": "55380160-cdb6-4bdf-b75f-a90bad04476f",
+      "__typename": "JobType",
+      "name": "iOS Developer"
+    }
+  ],
+  "applicants": [
+    {
+      "id": "b3b02062-4c56-435d-b5b2-7d17f57bd57f",
+      "__typename": "Applicant",
+      "firstName": "Tom",
+      "lastName": "Weber",
+      "thumb": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/qp8aBly.jpg"
+      },
+      "email": "fafafsd@gmail.com",
+      "phone": "23490725",
+      "summary": {
+        "html": ""
+      },
+      "gallery": [
+        {
+          "image": {
+            "contentType": "",
+            "size": 0,
+            "name": "",
+            "url": "https://i.imgur.com/BGDz2lJ.jpg"
+          }
+        },
+        {
+          "image": {
+            "contentType": "",
+            "size": 0,
+            "name": "",
+            "url": "https://i.imgur.com/ooELUlq.jpg"
+          }
+        },
+        {
+          "image": {
+            "contentType": "",
+            "size": 0,
+            "name": "",
+            "url": "https://i.imgur.com/7p1p3v7.jpg"
+          }
+        }
+      ],
+      "createDate": "2018-12-20T07:52:21.060Z"
+    },
+    {
+      "id": "53e9b07e-ccfe-46bc-b86d-11d186af9f5b",
+      "__typename": "Applicant",
+      "firstName": "Leeanne",
+      "lastName": "Matissoff",
+      "thumb": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/IiOVgry.jpg"
+      },
+      "email": "sfasdf@gasdf.com",
+      "phone": "2425563461",
+      "summary": {
+        "html": "<p>sdafsafa</p>"
+      },
+      "gallery": [],
+      "createDate": "2018-12-05T07:55:06.806Z"
+    },
+    {
+      "id": "626d438d-2641-4186-828a-aed4e6b06ce2",
+      "__typename": "Applicant",
+      "firstName": "Justin",
+      "lastName": "Beeeber",
+      "thumb": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/Deh6WAe.jpg"
+      },
+      "email": "s235s@gaslf.com",
+      "phone": "2342366",
+      "summary": {
+        "html": ""
+      },
+      "gallery": [
+        {
+          "image": {
+            "contentType": "",
+            "size": 0,
+            "name": "",
+            "url": "https://i.imgur.com/eWS84uh.jpg"
+          }
+        }
+      ],
+      "createDate": "2018-12-09T07:55:56.323Z"
+    },
+    {
+      "id": "af5d397d-79a3-4b8f-a9a5-19bd5e9a6474",
+      "__typename": "Applicant",
+      "firstName": "Endley",
+      "lastName": "Theresa",
+      "thumb": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/S2ykeDN.jpg"
+      },
+      "email": "dasdf@asdfas.com",
+      "phone": "8979847",
+      "summary": {
+        "html": ""
+      },
+      "gallery": [],
+      "createDate": "2018-12-02T07:56:33.677Z"
+    },
+    {
+      "id": "6678d101-853c-4e52-ad0e-9de6fb105bf6",
+      "__typename": "Applicant",
+      "firstName": "Brockest",
+      "lastName": "Iggie",
+      "thumb": {
+        "contentType": "",
+        "name": "",
+        "size": 0,
+        "url": "https://i.imgur.com/OOhO7tF.jpg"
+      },
+      "email": "asfasd@sfasf.com",
+      "phone": "2423425",
+      "summary": {
+        "html": ""
+      },
+      "gallery": [],
+      "createDate": "2018/12/05"
+    }
+  ],
+  "applications": [
+    {
+      "id": "ea6bc97d-57e9-4b87-b137-68ef4ea6a7cb",
+      "__typename": "Application",
+      "company": "b5669120-3524-40b4-ae79-c833aa23fe09",
+      "type": [
+        "626d438d-2641-4186-828a-aed4e6b06ce2",
+        "af5d397d-79a3-4b8f-a9a5-19bd5e9a6474",
+        "6678d101-853c-4e52-ad0e-9de6fb105bf6"
+      ],
+      "applicants": [
+        "af5d397d-79a3-4b8f-a9a5-19bd5e9a6474",
+        "626d438d-2641-4186-828a-aed4e6b06ce2",
+        "53e9b07e-ccfe-46bc-b86d-11d186af9f5b"
+      ],
+      "job": "2ad3b20f-aae0-4ec7-9215-aef71d8b4357"
+    },
+    {
+      "id": "a7d4ef35-aa70-4cd6-9a53-9dc8073be71f",
+      "__typename": "Application",
+      "company": "d181c7bf-cfe4-440f-9ebb-39d2b6d55e7e",
+      "applicants": [
+        "b3b02062-4c56-435d-b5b2-7d17f57bd57f",
+        "af5d397d-79a3-4b8f-a9a5-19bd5e9a6474",
+        "6678d101-853c-4e52-ad0e-9de6fb105bf6"
+      ],
+      "job": "7eebcb89-87bc-4640-9db4-9cb89-87ddc553"
+    },
+    {
+      "id": "9993dace-bb09-42ee-b0f5-6e2a94eff742",
+      "__typename": "Application",
+      "company": "8217873a-a5b2-49c7-b24f-6b98e807a364",
+      "applicants": [
+        "b3b02062-4c56-435d-b5b2-7d17f57bd57f"
+      ],
+      "job": "7eebcb89-87bc-4640-9db4-90cb89-83"
+    },
+    {
+      "id": "8fc7899d-8781-4b5d-a2bd-35b63c3a887d",
+      "__typename": "Application",
+      "job": "004de5f1-be6b-4c07-b8e0-26cf1-be6b-4c0ec",
+      "applicants": [
+        "6678d101-853c-4e52-ad0e-9de6fb105bf6",
+        "af5d397d-79a3-4b8f-a9a5-19bd5e9a6474",
+        "626d438d-2641-4186-828a-aed4e6b06ce2"
+      ]
+    },
+    {
+      "id": "3dfa1c02-2335-47c9-85c3-6ba0eb5ca9fe",
+      "__typename": "Application",
+      "job": "39f2ecf7-4a89-43d8-8ccc-1e9f2ec48def",
+      "applicants": [
+        "af5d397d-79a3-4b8f-a9a5-19bd5e9a6474",
+        "626d438d-2641-4186-828a-aed4e6b06ce2"
+      ]
+    },
+    {
+      "id": "45b95fce-213f-4b62-a621-902c0783cb34",
+      "__typename": "Application",
+      "job": "2ad3b20f-aae0-4ec7-9215-aef71d8b4357",
+      "applicants": [
+        "6678d101-853c-4e52-ad0e-9de6fb105bf6",
+        "af5d397d-79a3-4b8f-a9a5-19bd5e9a6474",
+        "626d438d-2641-4186-828a-aed4e6b06ce2",
+        "b3b02062-4c56-435d-b5b2-7d17f57bd57f",
+        "53e9b07e-ccfe-46bc-b86d-11d186af9f5b"
+      ]
+    },
+    {
+      "id": "739bae79-8fb1-4cb9-a152-05cc83402df6",
+      "__typename": "Application",
+      "job": "39f2ecf7-4a89-43d8-8ccc-1ea085448def",
+      "applicants": [
+        "626d438d-2641-4186-828a-aed4e6b06ce2"
+      ]
+    },
+    {
+      "id": "e571d76d-b7ce-4315-875e-d115768bc7ba",
+      "__typename": "Application",
+      "job": "2ad3b20f-aae0-4ec7-9215-aef71d8b4357",
+      "applicants": [
+        "af5d397d-79a3-4b8f-a9a5-19bd5e9a6474",
+        "626d438d-2641-4186-828a-aed4e6b06ce2"
+      ]
+    }
+  ]
+}

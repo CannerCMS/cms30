@@ -1,0 +1,171 @@
+{
+  "incomes": [
+    {
+      "id": "806d7c59-cfe1-4187-a744-6bcacfdffb1c",
+      "__typename": "Income",
+      "name": "Wages",
+      "amount": 3000,
+      "date": "2018-12-02T06:26:02.417Z",
+      "category": "875e909b-6e1d-445b-ba90-f88d8602de81"
+    },
+    {
+      "id": "bca7f5bf-8730-4aa2-822c-c851ecc14cf7",
+      "__typename": "Income",
+      "name": "Tips",
+      "amount": 40,
+      "date": "2018-12-02T06:26:13.212Z",
+      "category": "875e909b-6e1d-445b-ba90-f88d8602de81"
+    },
+    {
+      "id": "ec08c9ca-4292-41d8-9a7b-730c06f1f093",
+      "__typename": "Income",
+      "name": "BTC",
+      "amount": 200,
+      "date": "2018-11-28T08:16:59.660Z",
+      "category": "07c79f3d-af98-4b8c-baa8-e30947687fe5"
+    },
+    {
+      "id": "e5d99ef6-60cc-4af2-b2b7-479fcb392980",
+      "__typename": "Income",
+      "name": "APPLE",
+      "amount": 100,
+      "date": "2018-11-23T08:17:27.988Z",
+      "category": "07c79f3d-af98-4b8c-baa8-e30947687fe5"
+    },
+    {
+      "id": "f0da9574-ab30-4ef1-ba57-263d4045830d",
+      "__typename": "Income",
+      "name": "Wages",
+      "amount": 3000,
+      "date": "2018-11-02T08:17:56.330Z",
+      "category": "875e909b-6e1d-445b-ba90-f88d8602de81"
+    },
+    {
+      "id": "0013030e-3e2d-47a4-baf4-58ce925d7a58",
+      "__typename": "Income",
+      "name": "Wages & Tips",
+      "amount": 4000,
+      "date": "2018-10-04T08:18:21.316Z",
+      "category": "875e909b-6e1d-445b-ba90-f88d8602de81"
+    },
+    {
+      "id": "748779d6-9f13-49ad-a324-472d0c5d61cd",
+      "__typename": "Income",
+      "name": "Wages",
+      "amount": 2800,
+      "date": "2018-09-02T08:18:48.003Z",
+      "category": "875e909b-6e1d-445b-ba90-f88d8602de81"
+    }
+  ],
+  "expenses": [
+    {
+      "id": "f469cdce-1de8-491e-b795-742e9797b6ee",
+      "__typename": "Expense",
+      "name": "APPLE",
+      "amount": 200,
+      "date": "2018-11-29T06:26:26.528Z",
+      "category": "07c79f3d-af98-4b8c-baa8-e30947687fe5"
+    },
+    {
+      "id": "b7bf9cb3-5390-4123-adcb-a737b4e81e64",
+      "__typename": "Expense",
+      "name": "Eating",
+      "amount": 50,
+      "date": "2018-12-12T08:19:43.019Z",
+      "category": "97df9a29-4a27-49ca-be26-a6a50ac2a517"
+    },
+    {
+      "id": "997c9566-6754-4003-86d5-a4730248e46d",
+      "__typename": "Expense",
+      "name": "Grandma Hospitalization",
+      "amount": 3000,
+      "date": "2018-10-04T08:20:26.371Z",
+      "category": "ab02da5f-07ab-403a-9fc7-4668d0a22720"
+    },
+    {
+      "id": "f119889f-10d6-41d8-afa8-f4cdd6b81bff",
+      "__typename": "Expense",
+      "name": "Train",
+      "amount": 20,
+      "date": "2018-10-02T08:20:55.804Z",
+      "category": "906a6fbf-0c34-46ee-b1bc-e9b4d34479b9"
+    },
+    {
+      "id": "ea7be48d-8ab3-4627-9381-599bb1d348af",
+      "__typename": "Expense",
+      "name": "Train",
+      "amount": 15,
+      "date": "2018-09-05T08:21:14.468Z",
+      "category": "906a6fbf-0c34-46ee-b1bc-e9b4d34479b9"
+    },
+    {
+      "id": "1a5bbb4e-09a5-462a-83fe-e39bf2122e42",
+      "__typename": "Expense",
+      "name": "Eating",
+      "amount": 200,
+      "date": "2018-09-05T08:21:54.588Z",
+      "category": "97df9a29-4a27-49ca-be26-a6a50ac2a517"
+    },
+    {
+      "id": "5864c593-2e73-46fa-8333-fdcbd0d301f1",
+      "__typename": "Expense",
+      "name": "Party",
+      "amount": 100,
+      "date": "2018-10-17T08:22:17.789Z",
+      "category": "65af65cb-760e-44d4-9f3f-48f51122d9e3"
+    },
+    {
+      "id": "f83cbded-c210-4349-b57f-5483284d6100",
+      "__typename": "Expense",
+      "name": "Eating",
+      "amount": 200,
+      "date": "2018-11-02T08:23:24.158Z",
+      "category": "97df9a29-4a27-49ca-be26-a6a50ac2a517"
+    },
+    {
+      "id": "12605b76-e143-46c0-aea4-c2dfb6c09f1e",
+      "__typename": "Expense",
+      "name": "Eating",
+      "amount": 100,
+      "date": "2018-11-30T08:24:11.005Z",
+      "category": "97df9a29-4a27-49ca-be26-a6a50ac2a517"
+    }
+  ],
+  "categories": [
+    {
+      "id": "4d4644c5-906d-49f0-a1cc-3fae93d257f8",
+      "__typename": "Category",
+      "name": "Home"
+    },
+    {
+      "id": "ab02da5f-07ab-403a-9fc7-4668d0a22720",
+      "__typename": "Category",
+      "name": "Health"
+    },
+    {
+      "id": "97df9a29-4a27-49ca-be26-a6a50ac2a517",
+      "__typename": "Category",
+      "name": "Daily Living"
+    },
+    {
+      "id": "65af65cb-760e-44d4-9f3f-48f51122d9e3",
+      "__typename": "Category",
+      "name": "Enterainment"
+    },
+    {
+      "id": "875e909b-6e1d-445b-ba90-f88d8602de81",
+      "__typename": "Category",
+      "name": "Job"
+    },
+    {
+      "id": "906a6fbf-0c34-46ee-b1bc-e9b4d34479b9",
+      "__typename": "Category",
+      "name": "Transportation"
+    },
+    {
+      "id": "07c79f3d-af98-4b8c-baa8-e30947687fe5",
+      "__typename": "Category",
+      "name": "Investment"
+    }
+  ]
+}

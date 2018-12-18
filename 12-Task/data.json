@@ -1,0 +1,197 @@
+{
+  "teams": [
+    {
+      "id": "ccc46cbe-3b0a-4cb4-9534-724c8a3ca8eb",
+      "__typename": "Team",
+      "name": "Marketing",
+      "color": "#4caf50"
+    },
+    {
+      "id": "3bb59da1-b53e-4c74-8d62-ae946053d588",
+      "__typename": "Team",
+      "name": "Development",
+      "color": "#ffc107"
+    },
+    {
+      "id": "1a4b7ff2-af9c-4149-9998-8a1ff08b5318",
+      "__typename": "Team",
+      "name": "Server management",
+      "color": "#f44336"
+    },
+    {
+      "id": "dfbc465c-2b70-413d-ab32-73a58430b446",
+      "__typename": "Team",
+      "name": "Customer support",
+      "color": "#2196f3"
+    },
+    {
+      "id": "71a4a437-74f2-4fdc-9a57-ada23f098271",
+      "__typename": "Team",
+      "name": "Accounting",
+      "color": "#ffeb3b"
+    },
+    {
+      "id": "f452de1e-7f56-46d8-85aa-19edd0ae2ca8",
+      "__typename": "Team",
+      "name": "Sales",
+      "color": "#9c27b0"
+    }
+  ],
+  "timeTypes": [
+    {
+      "id": "aebb31f4-4939-4b2f-937a-7dde2a3fdcf5",
+      "__typename": "TimeType",
+      "name": "Maintenance",
+      "shortName": "M",
+      "color": "#8b572a"
+    },
+    {
+      "id": "8c337e29-f5c7-40dd-8dff-0bf5b05d06f5",
+      "__typename": "TimeType",
+      "name": "Deal",
+      "shortName": "D",
+      "color": "#bd10e0"
+    },
+    {
+      "id": "c5038e0f-718d-4ff6-b50b-9acc66248e6e",
+      "__typename": "TimeType",
+      "name": "Promotion",
+      "shortName": "P",
+      "color": "#50e3c2"
+    },
+    {
+      "id": "42b763ed-5a5f-41c8-875b-a783b7eb4fd6",
+      "__typename": "TimeType",
+      "name": "Upgrade",
+      "shortName": "U",
+      "color": "#d0021b"
+    },
+    {
+      "id": "d1834a04-4941-47d1-b504-6111d317ab4d",
+      "__typename": "TimeType",
+      "name": "Release",
+      "shortName": "R",
+      "color": "#b8e986"
+    }
+  ],
+  "employees": [
+    {
+      "id": "4d9728e9-d747-4f07-ac48-dcc41b09a723",
+      "__typename": "Employee",
+      "name": "Howard",
+      "email": "howard@test.com",
+      "position": "CMO",
+      "team": "ccc46cbe-3b0a-4cb4-9534-724c8a3ca8eb"
+    },
+    {
+      "id": "ebac37c6-c83f-4e7a-8e6b-9b1719c463b5",
+      "__typename": "Employee",
+      "name": "Leo",
+      "email": "leo@test.com",
+      "position": "Lead frontend developer",
+      "team": "3bb59da1-b53e-4c74-8d62-ae946053d588"
+    },
+    {
+      "id": "686ea320-f116-48e8-b163-9175e98b6128",
+      "__typename": "Employee",
+      "name": "William",
+      "email": "william@test.com",
+      "position": "CTO",
+      "team": "1a4b7ff2-af9c-4149-9998-8a1ff08b5318"
+    },
+    {
+      "id": "6b99f2a2-c308-4745-9ba6-986ce3a270e1",
+      "__typename": "Employee",
+      "name": "Frank",
+      "email": "frank@test.cm",
+      "position": "Backend engineer",
+      "team": "3bb59da1-b53e-4c74-8d62-ae946053d588"
+    },
+    {
+      "id": "0f2c890c-df1e-4fdf-99fc-e20e9abb958a",
+      "__typename": "Employee",
+      "name": "Kevin",
+      "email": "kevin@test.com",
+      "position": "Sales lead",
+      "team": "f452de1e-7f56-46d8-85aa-19edd0ae2ca8"
+    },
+    {
+      "id": "165ce928-f767-490a-a1f7-d450e6ecb799",
+      "__typename": "Employee",
+      "name": "Weber",
+      "email": "weber@test.com",
+      "position": "Advocator",
+      "team": "f452de1e-7f56-46d8-85aa-19edd0ae2ca8"
+    },
+    {
+      "id": "05eff746-eb8b-4003-8c4b-233eaeccd8cd",
+      "__typename": "Employee",
+      "name": "Melody",
+      "email": "melody@tset.com",
+      "position": "Accounting manager",
+      "team": "71a4a437-74f2-4fdc-9a57-ada23f098271"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "268b2e9a-31fd-4218-a436-fee72f8ec68c",
+      "__typename": "Task",
+      "name": "Database upgrade",
+      "date": "2018-12-20T12:27:56.254Z",
+      "desc": {
+        "html": "<p>We have some security problem from the data base need to update to the latest version</p>"
+      },
+      "timeType": "42b763ed-5a5f-41c8-875b-a783b7eb4fd6",
+      "employee": "686ea320-f116-48e8-b163-9175e98b6128",
+      "time": 2
+    },
+    {
+      "id": "84e2cc69-7375-44ee-aebe-1149f112a30a",
+      "__typename": "Task",
+      "name": "Accounting Oct",
+      "date": "2018-10-18T12:34:41.419Z",
+      "time": 1,
+      "desc": {
+        "html": ""
+      },
+      "timeType": "8c337e29-f5c7-40dd-8dff-0bf5b05d06f5",
+      "employee": "05eff746-eb8b-4003-8c4b-233eaeccd8cd"
+    },
+    {
+      "id": "19ce94e3-6738-4833-b1a0-78b7cd6e2d79",
+      "__typename": "Task",
+      "name": "New design",
+      "date": "2018-12-23T12:35:16.309Z",
+      "time": 3,
+      "desc": {
+        "html": ""
+      },
+      "timeType": "d1834a04-4941-47d1-b504-6111d317ab4d",
+      "employee": "ebac37c6-c83f-4e7a-8e6b-9b1719c463b5"
+    },
+    {
+      "id": "16872181-07ff-4a85-bbb7-35cc845b044c",
+      "__typename": "Task",
+      "name": "New deal with a agency",
+      "date": "2018-12-04T12:35:44.204Z",
+      "time": 2,
+      "desc": {
+        "html": ""
+      },
+      "timeType": "8c337e29-f5c7-40dd-8dff-0bf5b05d06f5",
+      "employee": "165ce928-f767-490a-a1f7-d450e6ecb799"
+    },
+    {
+      "id": "4d8e5f2a-e23a-4e7e-8ff3-4a1ef0512573",
+      "__typename": "Task",
+      "name": "New sales strategy",
+      "date": "2018-12-20T12:36:14.662Z",
+      "time": 3,
+      "desc": {
+        "html": ""
+      },
+      "timeType": "c5038e0f-718d-4ff6-b50b-9acc66248e6e",
+      "employee": "0f2c890c-df1e-4fdf-99fc-e20e9abb958a"
+    }
+  ]
+}

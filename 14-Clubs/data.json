@@ -1,0 +1,230 @@
+{
+    "groups": [
+      {
+        "id": "f7eb2f95-8e53-474d-8345-2e54f29d1e5e",
+        "__typename": "Group",
+        "name": "Golf",
+        "description": {
+          "html": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,&nbsp;sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,&nbsp;sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p><p><br></p><p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>"
+        },
+        "active": false,
+        "groupType": "eed35a03-5b82-456e-a5b9-99549a776ca8"
+      },
+      {
+        "id": "10853149-ddec-4c94-a06e-847f796aa304",
+        "__typename": "Group",
+        "name": "Chess",
+        "description": {
+          "html": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,&nbsp;sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,&nbsp;sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p><p><br></p><p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>"
+        },
+        "active": true,
+        "groupType": "88d5ca6e-ead3-4d8c-a0b8-d72efb62d3c9"
+      },
+      {
+        "id": "108e27fc-2643-4ed9-ac54-f39f8ccb3cf0",
+        "__typename": "Group",
+        "name": "Soccer",
+        "description": {
+          "html": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,&nbsp;sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,&nbsp;sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p><p><br></p><p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>"
+        },
+        "active": true,
+        "groupType": "eed35a03-5b82-456e-a5b9-99549a776ca8"
+      },
+      {
+        "id": "bcb53f4f-bcec-40e7-9a62-9774edae5716",
+        "__typename": "Group",
+        "name": "EDM",
+        "description": {
+          "html": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,&nbsp;sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,&nbsp;sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p><p><br></p><p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>"
+        },
+        "active": false,
+        "groupType": "1f5a55b4-598f-4366-b3fd-3b8669b3a516"
+      },
+      {
+        "id": "a937c118-5a34-4605-962b-7ec722284d93",
+        "__typename": "Group",
+        "name": "Classic ",
+        "description": {
+          "html": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,&nbsp;sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,&nbsp;sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p><p><br></p><p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>"
+        },
+        "active": true,
+        "groupType": "1f5a55b4-598f-4366-b3fd-3b8669b3a516"
+      },
+      {
+        "id": "99aeac1c-dbce-4b9d-98d8-073adf3ed07e",
+        "__typename": "Group",
+        "name": "Robotics",
+        "description": {
+          "html": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,&nbsp;sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,&nbsp;sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p><p><br></p><p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>"
+        },
+        "active": true,
+        "groupType": "9b90a5f2-4a4b-4bac-b844-5a6d393c1cc4"
+      }
+    ],
+    "groupTypes": [
+      {
+        "id": "eed35a03-5b82-456e-a5b9-99549a776ca8",
+        "__typename": "GroupType",
+        "name": "Sport",
+        "color": "#00bcd4"
+      },
+      {
+        "id": "88d5ca6e-ead3-4d8c-a0b8-d72efb62d3c9",
+        "__typename": "GroupType",
+        "name": "Indoor",
+        "color": "#3f51b5"
+      },
+      {
+        "id": "1f5a55b4-598f-4366-b3fd-3b8669b3a516",
+        "__typename": "GroupType",
+        "name": "Music",
+        "color": "#ffeb3b"
+      },
+      {
+        "id": "7374b468-f702-48bd-8bcb-b8e31c66d92b",
+        "__typename": "GroupType",
+        "name": "Youth",
+        "color": "#e91e63"
+      },
+      {
+        "id": "7ba1c24e-28dd-48df-a488-bda97ddeff4d",
+        "__typename": "GroupType",
+        "name": "Adult",
+        "color": "#03a9f4"
+      },
+      {
+        "id": "9b90a5f2-4a4b-4bac-b844-5a6d393c1cc4",
+        "__typename": "GroupType",
+        "name": "Sicence",
+        "color": "#607d8b"
+      }
+    ],
+    "members": [
+      {
+        "id": "b5a3f8ea-3534-4b8c-91eb-d92ce0d853a9",
+        "__typename": "Member",
+        "name": "Howard Chi",
+        "nickName": "Howard",
+        "homePhoneNumber": "092109214",
+        "cellPhoneNumber": "23429879",
+        "gender": "MALE",
+        "email": "howard@wrwe.twtw",
+        "birthDate": "2018-12-17T07:11:41.345Z",
+        "createdDate": "2018-12-06T07:11:45.227Z",
+        "createDate": "2018-12-04T07:13:08.093Z"
+      },
+      {
+        "id": "8cef361e-927b-449e-b5b5-34e84f8b2f32",
+        "__typename": "Member",
+        "name": "Leo",
+        "nickName": "Lee",
+        "homePhoneNumber": "24298513",
+        "cellPhoneNumber": "2342798",
+        "gender": "MALE",
+        "email": "dgdsfg@wer.com",
+        "birthDate": "2018-12-22T07:12:18.239Z",
+        "createdDate": "2018-12-23T07:12:20.539Z",
+        "createDate": "2018-12-24T07:13:01.534Z"
+      },
+      {
+        "id": "d1cf1cc6-25d4-4030-955f-7352ab62be35",
+        "__typename": "Member",
+        "name": "Aubrey",
+        "nickName": "Au",
+        "homePhoneNumber": "232897",
+        "cellPhoneNumber": "237492375",
+        "gender": "FEMALE",
+        "email": "wejoi@234.com",
+        "birthDate": "2017-12-19T07:13:35.618Z",
+        "createDate": "2018-12-12T07:13:39.711Z"
+      },
+      {
+        "id": "3eba5cc7-9820-44ec-b699-6c85d6f189e0",
+        "__typename": "Member",
+        "name": "Lisa",
+        "nickName": "Li",
+        "homePhoneNumber": "2342160987",
+        "cellPhoneNumber": "230942098",
+        "gender": "FEMALE",
+        "email": "fasfsa@werwer.com.tw",
+        "birthDate": "2016-12-12T07:14:11.353Z",
+        "createDate": "2014-12-15T07:14:15.936Z"
+      },
+      {
+        "id": "d1fb3459-1366-4c83-bb8e-cc419184671a",
+        "__typename": "Member",
+        "name": "Miles",
+        "nickName": "Mwewe",
+        "homePhoneNumber": "138974129",
+        "cellPhoneNumber": "242374987",
+        "gender": "MALE",
+        "email": "asdfasd@gmasdil.com",
+        "birthDate": "2016-12-19T07:15:00.627Z",
+        "createDate": "2015-12-13T07:15:03.990Z"
+      },
+      {
+        "id": "af33f616-e82e-4274-b5e2-1c807c785e46",
+        "__typename": "Member",
+        "name": "Justin",
+        "nickName": "Just",
+        "homePhoneNumber": "23239487",
+        "cellPhoneNumber": "23894723",
+        "gender": "MALE",
+        "email": "Justin@me.meee",
+        "birthDate": "2018-12-24T07:15:45.230Z",
+        "createDate": "2015-12-20T07:15:48.376Z"
+      }
+    ],
+    "groupMembers": [
+      {
+        "id": "29ac7bdd-9b32-4e53-bb4c-959e31f36164",
+        "__typename": "GroupMember",
+        "role": "Founder",
+        "status": "JOIN",
+        "joinDate": "2018-12-03T07:19:37.438Z",
+        "exitDate": "2018-12-09T07:20:43.738Z",
+        "member": "3eba5cc7-9820-44ec-b699-6c85d6f189e0",
+        "group": "10853149-ddec-4c94-a06e-847f796aa304"
+      },
+      {
+        "id": "bf0a66ff-9942-4a36-b23c-10c5f3952899",
+        "__typename": "GroupMember",
+        "role": "Member 1",
+        "status": "JOIN",
+        "joinDate": "2018-12-01T07:21:10.949Z",
+        "exitDate": "",
+        "member": "d1cf1cc6-25d4-4030-955f-7352ab62be35",
+        "group": "a937c118-5a34-4605-962b-7ec722284d93"
+      },
+      {
+        "id": "038224cf-7906-4b7f-9629-fed4de7c9d2b",
+        "__typename": "GroupMember",
+        "role": "Finance",
+        "status": "EXIT",
+        "joinDate": "2018-12-26T07:21:57.529Z",
+        "exitDate": "2018-12-12T07:21:58.750Z",
+        "member": "3eba5cc7-9820-44ec-b699-6c85d6f189e0",
+        "group": "bcb53f4f-bcec-40e7-9a62-9774edae5716"
+      },
+      {
+        "id": "bf515b51-0878-42db-ad7c-6133a10d0206",
+        "__typename": "GroupMember",
+        "role": "Purchase",
+        "status": "JOIN",
+        "joinDate": "2018-12-06T07:25:20.778Z",
+        "exitDate": "",
+        "member": "d1fb3459-1366-4c83-bb8e-cc419184671a",
+        "group": "99aeac1c-dbce-4b9d-98d8-073adf3ed07e"
+      },
+      {
+        "id": "82b43124-d1fd-4c13-8c36-04fc69dece51",
+        "__typename": "GroupMember",
+        "role": "co-founder",
+        "status": "JOIN",
+        "joinDate": "2018-12-25T07:25:50.728Z",
+        "exitDate": "",
+        "member": "8cef361e-927b-449e-b5b5-34e84f8b2f32",
+        "group": "99aeac1c-dbce-4b9d-98d8-073adf3ed07e"
+      }
+    ]
+  }

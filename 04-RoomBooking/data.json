@@ -1,0 +1,164 @@
+{
+  "rooms": [
+    {
+      "id": "a8ee3f0b-37a1-4a3d-8cea-e9737d81a6fe",
+      "__typename": "Room",
+      "name": "Room A",
+      "capacity": 3,
+      "assets": [
+        "100 inch screen"
+      ]
+    },
+    {
+      "id": "40b939c2-7ed6-4e51-9cad-a3760cf57e79",
+      "__typename": "Room",
+      "name": "Room B",
+      "capacity": 10,
+      "assets": [
+        "100 inch scrren"
+      ]
+    },
+    {
+      "id": "b51bd989-8132-4db1-b163-30fbcb4566c0",
+      "__typename": "Room",
+      "name": "Room C",
+      "capacity": 4,
+      "assets": [
+        "50 LED TV"
+      ]
+    },
+    {
+      "id": "f15bbef3-0414-4fe1-b381-587bd077656c",
+      "__typename": "Room",
+      "name": "Room D",
+      "capacity": 4,
+      "assets": [
+        "Monitor Speakers",
+        " Audio Interface",
+        " microphones"
+      ]
+    }
+  ],
+  "bookings": [
+    {
+      "id": "aed8e222-2e4a-47a3-bb22-43f248721aba",
+      "__typename": "Booking",
+      "bookingDate": "2018-11-06T01:45:33.935Z",
+      "bookingStart": "10:00",
+      "bookingEnd": "12:00",
+      "status": "CANCELLED",
+      "purpose": "weekly meeting",
+      "user": {
+        "name": "Warren T Kelley",
+        "email": "lois_hanse10@hotmail.com",
+        "phone": "917-202-9012"
+      },
+      "room": "a8ee3f0b-37a1-4a3d-8cea-e9737d81a6fe"
+    },
+    {
+      "id": "5e5046d1-4343-4c33-a7d7-951dcf4938ed",
+      "__typename": "Booking",
+      "bookingDate": "2018-11-13T01:46:16.143Z",
+      "bookingStart": "12:00",
+      "bookingEnd": "11:00",
+      "status": "RESERVED",
+      "purpose": "weekly meeting",
+      "user": {
+        "name": "Michael E Johnson",
+        "email": "major_moor10@gmail.com",
+        "phone": "701-361-1651"
+      },
+      "room": "a8ee3f0b-37a1-4a3d-8cea-e9737d81a6fe"
+    },
+    {
+      "id": "8766faa6-82a1-4935-b4f0-bb0789ef8e82",
+      "__typename": "Booking",
+      "bookingDate": "2018-11-30T02:04:00.518Z",
+      "bookingStart": "12:00",
+      "bookingEnd": "17:00",
+      "status": "RESERVED",
+      "purpose": "workshop",
+      "user": {
+        "name": "Garrett C Steinberg",
+        "email": "jacynthe.colli@yahoo.com",
+        "phone": " 609-332-0721"
+      },
+      "room": "a8ee3f0b-37a1-4a3d-8cea-e9737d81a6fe"
+    },
+    {
+      "id": "9ec87aa4-6e82-4b1d-b623-676f9216b372",
+      "__typename": "Booking",
+      "bookingDate": "2018-11-30T02:21:57.538Z",
+      "bookingStart": "20:00",
+      "bookingEnd": "23:00",
+      "status": "RESERVED",
+      "purpose": "workshop",
+      "user": {
+        "name": "Jon N Strouse",
+        "email": "carlo2003@yahoo.com",
+        "phone": "641-521-9146"
+      },
+      "room": "40b939c2-7ed6-4e51-9cad-a3760cf57e79"
+    },
+    {
+      "id": "27dcace8-667c-4a30-8fa9-6a56b083f557",
+      "__typename": "Booking",
+      "bookingDate": "2018-11-26T16:00:00.000Z",
+      "bookingStart": "20:00",
+      "bookingEnd": "23:00",
+      "status": "CANCELLED",
+      "purpose": "party",
+      "user": {
+        "name": "Barbara A Willis",
+        "email": "ayla1980@hotmail.com",
+        "phone": "423-807-8493"
+      },
+      "room": "40b939c2-7ed6-4e51-9cad-a3760cf57e79"
+    },
+    {
+      "id": "5bc0a901-461a-47b7-ab46-7b4498fd4124",
+      "__typename": "Booking",
+      "bookingDate": "2018-11-26T16:00:00.000Z",
+      "bookingStart": "08:00",
+      "bookingEnd": "11:00",
+      "status": "RESERVED",
+      "purpose": "interview",
+      "user": {
+        "name": "Mary R Dear",
+        "email": "francesco1972@gmail.com",
+        "phone": "917-250-0371"
+      },
+      "room": "a8ee3f0b-37a1-4a3d-8cea-e9737d81a6fe"
+    },
+    {
+      "id": "b97904cc-7fcb-4cde-9d14-2910881543e5",
+      "__typename": "Booking",
+      "bookingDate": "2018-11-29T16:00:00.000Z",
+      "bookingStart": "04:00",
+      "bookingEnd": "08:00",
+      "status": "RESERVED",
+      "purpose": "meeting",
+      "user": {
+        "name": "Herbert H Guzman",
+        "email": "kavon1994@hotmail.com",
+        "phone": "210-440-1928"
+      },
+      "room": "40b939c2-7ed6-4e51-9cad-a3760cf57e79"
+    },
+    {
+      "id": "b27121cd-12be-45db-a1a6-d145481638a7",
+      "__typename": "Booking",
+      "bookingDate": "2018-11-25T16:00:00.000Z",
+      "bookingStart": "02:00",
+      "bookingEnd": "22:00",
+      "status": "RESERVED",
+      "purpose": "meetup",
+      "user": {
+        "name": "Joey M Keeler",
+        "email": "adrain2002@hotmail.com",
+        "phone": "402-304-7230"
+      },
+      "room": "b51bd989-8132-4db1-b163-30fbcb4566c0"
+    }
+  ]
+}

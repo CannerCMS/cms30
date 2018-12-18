@@ -1,0 +1,45 @@
+{
+  "name": "30-cms",
+  "version": "1.0.0",
+  "description": "30 CMS tamples in 30 dyas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "canner script:serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Canner/30-cms-draft.git"
+  },
+  "keywords": [
+    "CMS",
+    "React",
+    "Canner"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Canner/30-cms-draft/issues"
+  },
+  "homepage": "https://github.com/Canner/30-cms-draft#readme",
+  "devDependencies": {
+    "@canner/antd-components": "0.5.20",
+    "@canner/storage": "^2.0.11",
+    "antd": "3.10.1",
+    "babel-eslint": "^10.0.1",
+    "canner": "^2.0.25",
+    "canner-bundle-script": "^0.7.0",
+    "canner-client-cms-page": "0.2.0",
+    "canner-credential": "^0.1.8",
+    "canner-schema-loader": "2.0.14",
+    "canner-script": "^2.0.11",
+    "compression-webpack-plugin": "^2.0.0",
+    "eslint": "^5.9.0",
+    "eslint-plugin-flowtype": "^3.2.0",
+    "eslint-plugin-react": "^7.11.1",
+    "gulp": "^4.0.0",
+    "gulp-s3": "^0.11.0",
+    "ignore-styles": "^5.0.1",
+    "lodash.mapvalues": "^4.6.0"
+  }
+}

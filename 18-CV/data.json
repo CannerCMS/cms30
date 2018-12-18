@@ -1,0 +1,59 @@
+{
+  "cv": {
+    "__typename": "CvPayload",
+    "personalProfile": {
+      "html": "<p>I'm a student studying Aerospace Engineering at the University of Manchester. I have work experience in the retail, catering, and commercial transport industry. I am honest, reliable and my past roles have required good timekeeping and a positive attitude in high pressure environments. My aim is to get relevant internship experience whilst I am at university so I can graduate with a greater understanding of the engineering industry and what companies look for in engineering graduates.</p>"
+    },
+    "education": [
+      {
+        "from": "2006-12-16T18:02:53.743Z",
+        "to": "2009-12-31T16:00:00.812Z",
+        "institutionName": "School – GCSE"
+      },
+      {
+        "from": "2009-12-31T16:00:00.714Z",
+        "to": "2011-12-31T16:00:00.758Z",
+        "institutionName": " College – Level 2 NVQ"
+      },
+      {
+        "from": "2013-12-31T16:00:00.054Z",
+        "to": "2014-12-31T16:00:00.357Z",
+        "institutionName": " College – Level 3 Access to HE"
+      },
+      {
+        "from": "2018-12-14T18:04:26.979Z",
+        "to": "",
+        "institutionName": "University of Manchester (2015-Current) BEng/MEng "
+      }
+    ],
+    "workExperience": [
+      {
+        "from": "2018-12-31T16:00:00.811Z",
+        "to": "",
+        "jobPosition": "assistant kitchen porter",
+        "companyName": "Penventon Park Hotel "
+      },
+      {
+        "from": "2010-12-31T16:00:00.313Z",
+        "to": "2012-12-31T16:00:00.750Z",
+        "jobPosition": " Apprentice / Technician",
+        "companyName": "NAME Commercials"
+      }
+    ],
+    "hobbiesAndInterests": {
+      "html": "<p>My hobbies include: playing the guitar, martial arts, kayaking, and badminton. I'm interested in the development of the UK Space industry and the progress of technology in renewable energy and bio-technology. I am also on the Residents Association for NAME Student Residences at the University of Manchester. My role is Deputy Chair, this position includes: assisting the Chair oversee and manage the responsibilites of the residents association, organising events for the residents of the halls, ensuring proper procedures are taken with regards to administration and event planning, and assisting the \"Raise and Give\" branch of the University with charity fund&nbsp;raisers</p>"
+    },
+    "skills": {
+      "technical": [
+        "Data Mining",
+        "Database Design",
+        " Database Management"
+      ],
+      "interpersonal": [
+        "Positive Attitude",
+        "Collaboration"
+      ],
+      "other": []
+    }
+  }
+}

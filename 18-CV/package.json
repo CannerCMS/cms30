@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "canner-credential": "^0.1.8"
+  },
+  "devDependencies": {
+    "@canner/storage": "^2.0.11"
+  }
+}
