@@ -1,5 +1,7 @@
 # #CMS30
 
+[![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/canner/cannercms)
+
 Learn more about `#CMS30` please visit https://cms30.canner.io
 
 # Instuctions
